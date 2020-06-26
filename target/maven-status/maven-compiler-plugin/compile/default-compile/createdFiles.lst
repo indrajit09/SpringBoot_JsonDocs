@@ -1,0 +1,5 @@
+com\Indra\Spring\JsonDocs\api\controller\EmployeeController.class
+com\Indra\Spring\JsonDocs\api\service\EmployeeService.class
+com\Indra\Spring\JsonDocs\api\SpringJsonDocsApplication.class
+com\Indra\Spring\JsonDocs\api\dao\EmployeeRepository.class
+com\Indra\Spring\JsonDocs\api\model\Employee.class
